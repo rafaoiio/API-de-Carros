@@ -1,0 +1,11 @@
+br\com\RafaG\apidecarros\carros\request\CarrosUpdateDocumentoRequest.class
+br\com\RafaG\apidecarros\carros\response\CarrosResponse.class
+br\com\RafaG\apidecarros\carros\domain\Carros.class
+br\com\RafaG\apidecarros\utils\ValidationUtil.class
+br\com\RafaG\apidecarros\carros\request\CarrosCreateRequest.class
+br\com\RafaG\apidecarros\carros\request\CarrosUpdateRequest.class
+br\com\RafaG\apidecarros\carros\service\CarrosService.class
+br\com\RafaG\apidecarros\ApiDeCarrosApplication.class
+br\com\RafaG\apidecarros\carros\repository\CarrosRepository.class
+br\com\RafaG\apidecarros\carros\request\CarrosRequest.class
+br\com\RafaG\apidecarros\carros\api\CarrosController.class

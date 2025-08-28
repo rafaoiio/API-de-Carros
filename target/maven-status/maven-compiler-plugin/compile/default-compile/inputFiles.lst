@@ -1,0 +1,11 @@
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\repository\CarrosRepository.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\domain\Carros.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\api\CarrosController.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\request\CarrosUpdateRequest.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\service\CarrosService.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\utils\ValidationUtil.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\ApiDeCarrosApplication.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\request\CarrosRequest.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\request\CarrosUpdateDocumentoRequest.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\response\CarrosResponse.java
+E:\API-de-Carros\src\main\java\br\com\RafaG\apidecarros\carros\request\CarrosCreateRequest.java
